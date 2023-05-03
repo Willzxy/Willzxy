@@ -8,8 +8,6 @@
 <br>
 
 ![Willzxy GitHub stats](https://github-readme-stats.vercel.app/api?username=Willzxy&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Willzxy&layout=compact)](https://github.com/Willzxy/github-readme-stats)
-
 
 <h1>As linguagens de programação que mais utilizo</h1>
 
