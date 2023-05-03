@@ -19,7 +19,7 @@
 ![skill](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-<h2>Outras linguagens que eu já usei</h2>
+<h2>Outras tecnologias que eu já utilizei</h2>
 
 ![skill](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![skill](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
