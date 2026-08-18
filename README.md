@@ -1,4 +1,4 @@
-# Olá! 👋 Sou o Willian Carlos
+# Olá! Sou Willian Carlos
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-carlos-bergamasco/)
 
