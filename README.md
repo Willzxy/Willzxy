@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-carlos-bergamasco/)
 
-Sou um profissional focado na área de Tecnologia da Informação e Ciência da Computação, apaixonado por desenvolvimento de software, segurança de infraestrutura e otimização de sistemas. Gosto de resolver problemas complexos e criar automações que facilitam o dia a dia.
+Sou um estudante em busca de uma oportunidade, focado na área de Tecnologia da Informação e Ciência da Computação, apaixonado por desenvolvimento de software, segurança de infraestrutura e otimização de sistemas. Gosto de resolver problemas complexos e criar automações que facilitam o dia a dia.
 
 ### 👨‍💻 Sobre mim
 * 💻 Focado em desenvolvimento backend, automação de processos e estruturação de dados.
