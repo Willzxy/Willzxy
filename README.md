@@ -2,26 +2,45 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-carlos-bergamasco/)
 
-Sou um profissional focado na área de Tecnologia da Informação e Ciência da Computação, apaixonado por desenvolvimento de software, segurança de infraestrutura e otimização de banco de dados. Gosto de resolver problemas complexos e criar automações que facilitam o dia a dia.
+Sou um profissional focado na área de Tecnologia da Informação e Ciência da Computação, apaixonado por desenvolvimento de software, segurança de infraestrutura e otimização de sistemas. Gosto de resolver problemas complexos e criar automações que facilitam o dia a dia.
 
 ### 👨‍💻 Sobre mim
 * 💻 Focado em desenvolvimento backend, automação de processos e estruturação de dados.
-* 🚀 Tenho experiência e continuo me aprofundando no ecossistema de **Python, C++ e SQL**.
-* 🛡️ Interessado em segurança de TI e *hardening* de sistemas operacionais.
-* 📫 Como me encontrar: [Seu E-mail Aqui] ou através do LinkedIn acima.
+* 🚀 Tenho experiência e continuo me aprofundando nestas seguintes tecnologias **C#, Vue.js, ASP.NET e SQL**.
+* 🛡️ Interessado em desenvolvimento de aplicações web
+* 📫 Como me encontrar: [williancarlos.contato@gmail.com] ou através do LinkedIn acima.
 
 ---
 
 ### 🛠️ Minhas Tecnologias e Ferramentas
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo" />
+  <img width="12" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="aspnet logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sql server logo" />
 </div>
 
 ---
@@ -36,5 +55,4 @@ Sou um profissional focado na área de Tecnologia da Informação e Ciência da 
 
 ### 🏆 Projetos em Destaque
 
-* **[Nome do Projeto 1 - ex: Automação e Segurança]**(Link-do-repositório): Breve descrição de como você usou scripts para resolver um problema real de infraestrutura ou segurança.
-* **[Nome do Projeto 2 - ex: Sistema de Gestão]**(Link-do-repositório): Descrição de um sistema utilizando orientação a objetos em C++ ou modelagem avançada em SQL com subqueries e JOINs.
+* Em Desenvolvimento
