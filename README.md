@@ -45,10 +45,10 @@ Sou um estudante em busca de uma oportunidade, focado na área de Tecnologia da 
 
 ---
 
-### 📈 Minhas Estatísticas
+### 📈 Estatísticas
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Willzxy&show_icons=true&theme=dark" alt="Willzxy GitHub stats" />
+  <img src="https://vercel.app" />
 </div>
 
 ---
