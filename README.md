@@ -44,15 +44,3 @@ Sou um estudante em busca de uma oportunidade, focado na área de Tecnologia da 
 </div>
 
 ---
-
-### 📈 Estatísticas
-
-<div align="left">
-  <img src="https://vercel.app" />
-</div>
-
----
-
-### 🏆 Projetos em Destaque
-
-* Em Desenvolvimento
