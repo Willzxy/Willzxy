@@ -12,7 +12,7 @@ Sou um estudante em busca de uma oportunidade, focado na área de Tecnologia da 
 
 ---
 
-### 🛠️ Minhas Tecnologias e Ferramentas
+### 🛠️ Tecnologias e Ferramentas
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
