@@ -8,7 +8,7 @@ Sou um estudante em busca de uma oportunidade, focado na área de Tecnologia da 
 * 💻 Focado em desenvolvimento backend, automação de processos e estruturação de dados.
 * 🚀 Tenho experiência e continuo me aprofundando nestas seguintes tecnologias **C#, Vue.js, ASP.NET e SQL**.
 * 🛡️ Interessado em desenvolvimento de aplicações web
-* 📫 Como me encontrar: (Gmail - WillianCarlos.contato)[williancarlos.contato@gmail.com] ou através do LinkedIn acima.
+* 📫 Como me encontrar: williancarlos.contato@gmail.com ou através do LinkedIn acima.
 
 ---
 
